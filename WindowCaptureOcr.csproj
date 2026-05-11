@@ -13,6 +13,7 @@
     <Product>Window Capture OCR</Product>
     <!-- Required to use WinRT APIs like Windows.Media.Ocr -->
     <RuntimeIdentifiers>win-x64;win-x86</RuntimeIdentifiers>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
