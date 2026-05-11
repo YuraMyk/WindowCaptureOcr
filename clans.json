@@ -1,0 +1,1677 @@
+{
+  "clans": [
+    {
+      "name": "Example Clan",
+      "leader": "kuroi",
+      "status": "friendly",
+      "createdAt": "2026-04-20T00:00:00.000Z",
+      "updatedAt": "2026-05-02T13:45:36.952Z"
+    },
+    {
+      "name": "BoxesUnlimited",
+      "leader": "HellsJavi",
+      "status": "friendly",
+      "createdAt": "2026-04-20T20:47:41.655Z"
+    },
+    {
+      "name": "IPatriots",
+      "leader": "Ex0tica",
+      "status": "enemy",
+      "createdAt": "2026-04-20T20:50:39.391Z"
+    },
+    {
+      "name": "lPatriots",
+      "leader": "Ex0tica",
+      "status": "enemy",
+      "createdAt": "2026-04-20T20:50:52.357Z"
+    },
+    {
+      "name": "SICARIOS",
+      "leader": "MZAI",
+      "status": "enemy",
+      "createdAt": "2026-04-20T20:51:26.359Z"
+    },
+    {
+      "name": "RockStars",
+      "leader": "MZAI",
+      "status": "enemy",
+      "createdAt": "2026-04-20T20:51:32.758Z"
+    },
+    {
+      "name": "RIOT",
+      "leader": "13lazed",
+      "status": "friendly",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "NightNinjas",
+      "leader": "13lazed",
+      "status": "friendly",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "NightAgents",
+      "leader": "13lazed",
+      "status": "friendly",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "GreenForce",
+      "leader": "QQZab",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "Alberta",
+      "leader": "QQZab",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "LightMoon",
+      "leader": "QQZab",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "Dopi",
+      "leader": "QQZab",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "Ponykiss",
+      "leader": "QQZab",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "helloBoys",
+      "leader": "yohamakatsura",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z",
+      "updatedAt": "2026-04-23T13:33:23.877Z"
+    },
+    {
+      "name": "Frankenstein",
+      "leader": "QQZab",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "Qwentintarantino",
+      "leader": "QQZab",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "Gus",
+      "leader": "QQZab",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "ililililiilliili",
+      "leader": "QQZab",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "LazyBears",
+      "leader": "LazyBears",
+      "status": "friendly",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "TercioViejo",
+      "leader": "HellsJavi",
+      "status": "friendly",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "chill3r",
+      "leader": "Abod3",
+      "status": "friendly",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "GenericClan",
+      "leader": "QQZab",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "Chinatown",
+      "leader": "Truehorsepower",
+      "status": "friendly",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "Rohirrim",
+      "leader": "Truehorsepower",
+      "status": "friendly",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "Carebearzz",
+      "leader": "ngZaka",
+      "status": "friendly",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "Dirtyboys",
+      "leader": "KOVA",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "Kingdom",
+      "leader": "SirKane",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "LOC",
+      "leader": "SirKane",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "Tainted",
+      "leader": "Stark",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "SojuClub",
+      "leader": "Teo",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "xSoulSociety",
+      "leader": "OneShoot",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "gomdol",
+      "leader": "Kingka",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "XNVBUF",
+      "leader": "XNVMatrix",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "Sovereign",
+      "leader": "Laresi",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "ThisSucks",
+      "leader": "LittleLiz",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "JiparadiseCity",
+      "leader": "MrCr0wley",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "Supremancia",
+      "leader": "Bufunfona",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "USA",
+      "leader": "Port",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "DAC",
+      "leader": "DidAllCould",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "FaMiLIAMaJor",
+      "leader": "MajorIsacBoy",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "AmericaDelsur_27",
+      "leader": "PullaXD",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "BlackClover",
+      "leader": "Kyriel",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "ZG",
+      "leader": "nat0ta",
+      "status": "neutral",
+      "createdAt": "2026-04-20T22:00:00.000Z",
+      "updatedAt": "2026-04-22T10:11:27.807Z"
+    },
+    {
+      "name": "dooll",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "SkullZ",
+      "leader": "Critical3rror",
+      "status": "enemy",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "yPatriots",
+      "leader": "Ex0tica",
+      "status": "enemy",
+      "createdAt": "2026-04-20T22:00:00.000Z"
+    },
+    {
+      "name": "Marearoja",
+      "leader": "PullaXD",
+      "status": "neutral",
+      "createdAt": "2026-04-20T21:40:38.944Z",
+      "updatedAt": "2026-04-27T00:00:00.000Z"
+    },
+    {
+      "name": "NeverBackDown",
+      "leader": "SomeB",
+      "status": "neutral",
+      "createdAt": "2026-04-21T19:53:59.528Z"
+    },
+    {
+      "name": "OldTRclan",
+      "leader": "Stark",
+      "status": "neutral",
+      "createdAt": "2026-04-21T20:16:08.502Z",
+      "updatedAt": "2026-04-21T20:16:38.881Z"
+    },
+    {
+      "name": "sombrio",
+      "leader": "SomeB",
+      "status": "neutral",
+      "createdAt": "2026-04-21T20:25:44.797Z"
+    },
+    {
+      "name": "caravan",
+      "leader": "SomeB",
+      "status": "neutral",
+      "createdAt": "2026-04-21T20:26:05.431Z"
+    },
+    {
+      "name": "LetGo",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-21T20:38:29.754Z",
+      "updatedAt": "2026-04-21T20:39:08.498Z"
+    },
+    {
+      "name": "Amarok",
+      "leader": "Amyko",
+      "status": "neutral",
+      "createdAt": "2026-04-21T20:40:04.226Z",
+      "updatedAt": "2026-04-21T21:50:04.628Z"
+    },
+    {
+      "name": "Reminiscence",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-21T20:42:26.532Z"
+    },
+    {
+      "name": "fastfood",
+      "leader": "Oneshoot",
+      "status": "neutral",
+      "createdAt": "2026-04-21T20:46:14.054Z"
+    },
+    {
+      "name": "FilhosDeDeus",
+      "leader": "unknown",
+      "status": "neutral",
+      "createdAt": "2026-04-21T21:42:43.895Z"
+    },
+    {
+      "name": "Lions",
+      "leader": "Magic067",
+      "status": "friendly",
+      "createdAt": "2026-04-21T23:00:00.000Z"
+    },
+    {
+      "name": "Seaborn",
+      "leader": "Items",
+      "status": "neutral",
+      "createdAt": "2026-04-21T23:00:00.000Z"
+    },
+    {
+      "name": "Palatino",
+      "leader": "JAtenea",
+      "status": "neutral",
+      "createdAt": "2026-04-21T23:00:00.000Z"
+    },
+    {
+      "name": "Terrivel",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-04-21T23:00:00.000Z"
+    },
+    {
+      "name": "Flyboys",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-04-21T23:00:00.000Z"
+    },
+    {
+      "name": "StellVampire",
+      "leader": "Lordsito",
+      "status": "neutral",
+      "createdAt": "2026-04-21T23:00:00.000Z"
+    },
+    {
+      "name": "Throllsbr",
+      "leader": "Windwishper",
+      "status": "neutral",
+      "createdAt": "2026-04-21T23:00:00.000Z"
+    },
+    {
+      "name": "WildBlades",
+      "leader": "ziggysnorkel",
+      "status": "neutral",
+      "createdAt": "2026-04-21T22:51:00.737Z",
+      "updatedAt": "2026-04-26T20:13:12.496Z"
+    },
+    {
+      "name": "Chilensis",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-04-22T04:06:18.648Z",
+      "updatedAt": "2026-04-26T21:39:49.175Z"
+    },
+    {
+      "name": "pelycan",
+      "leader": "Rowen",
+      "status": "neutral",
+      "createdAt": "2026-04-22T04:08:33.004Z",
+      "updatedAt": "2026-04-24T20:19:32.543Z"
+    },
+    {
+      "name": "Alytus",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-22T04:18:13.512Z"
+    },
+    {
+      "name": "ABYS",
+      "leader": "MrsJuly",
+      "status": "neutral",
+      "createdAt": "2026-04-22T04:24:24.269Z",
+      "updatedAt": "2026-04-23T18:51:16.207Z"
+    },
+    {
+      "name": "SonsOfHoly",
+      "leader": "LordHoly",
+      "status": "neutral",
+      "createdAt": "2026-04-22T04:39:55.131Z",
+      "updatedAt": "2026-04-22T06:29:57.928Z"
+    },
+    {
+      "name": "relaitionship",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-22T04:40:48.423Z"
+    },
+    {
+      "name": "relationship",
+      "leader": "newdays",
+      "status": "neutral",
+      "createdAt": "2026-04-22T04:41:03.525Z",
+      "updatedAt": "2026-04-23T14:15:58.320Z"
+    },
+    {
+      "name": "clcronous",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-22T05:34:47.377Z"
+    },
+    {
+      "name": "AKlana2",
+      "leader": "BelianM status neutral",
+      "status": "neutral",
+      "createdAt": "2026-04-22T10:11:36.998Z",
+      "updatedAt": "2026-04-27T00:55:52.916Z"
+    },
+    {
+      "name": "boxesonly",
+      "leader": "RougeOne",
+      "status": "friendly",
+      "createdAt": "2026-04-22T10:12:19.148Z"
+    },
+    {
+      "name": "R3N3G4D0S",
+      "leader": "Rowen",
+      "status": "neutral",
+      "createdAt": "2026-04-22T10:14:55.945Z",
+      "updatedAt": "2026-04-22T10:15:37.060Z"
+    },
+    {
+      "name": "Painkiller",
+      "leader": "fromh3ll",
+      "status": "neutral",
+      "createdAt": "2026-04-22T10:15:54.231Z",
+      "updatedAt": "2026-05-02T14:19:32.896Z"
+    },
+    {
+      "name": "JAV",
+      "leader": "unkown",
+      "status": "enemy",
+      "createdAt": "2026-04-22T10:57:44.109Z",
+      "updatedAt": "2026-04-24T13:12:15.527Z"
+    },
+    {
+      "name": "Destinos",
+      "leader": "PullaXD",
+      "status": "neutral",
+      "createdAt": "2026-04-22T11:02:56.955Z",
+      "updatedAt": "2026-04-27T00:00:00.000Z"
+    },
+    {
+      "name": "Huskys",
+      "leader": "PullaXD",
+      "status": "neutral",
+      "createdAt": "2026-04-22T11:03:22.094Z",
+      "updatedAt": "2026-04-23T20:14:01.178Z"
+    },
+    {
+      "name": "SMSoldiers",
+      "leader": "Crawletao",
+      "status": "neutral",
+      "createdAt": "2026-04-22T11:05:36.596Z",
+      "updatedAt": "2026-05-07T20:16:58.103Z"
+    },
+    {
+      "name": "xNewOrder",
+      "leader": "Newarlord",
+      "status": "enemy",
+      "createdAt": "2026-04-22T11:09:30.456Z",
+      "updatedAt": "2026-04-22T11:10:25.406Z"
+    },
+    {
+      "name": "DaughterOfiiith",
+      "leader": "lillth",
+      "status": "friendly",
+      "createdAt": "2026-04-22T11:10:36.028Z",
+      "updatedAt": "2026-04-22T11:24:56.272Z"
+    },
+    {
+      "name": "Exilers",
+      "leader": "Dimvel",
+      "status": "neutral",
+      "createdAt": "2026-04-22T11:12:07.068Z",
+      "updatedAt": "2026-04-22T11:12:43.392Z"
+    },
+    {
+      "name": "darkwolves",
+      "leader": "thorensen",
+      "status": "neutral",
+      "createdAt": "2026-04-22T15:58:05.263Z",
+      "updatedAt": "2026-04-22T17:25:47.904Z"
+    },
+    {
+      "name": "Fairplayoldsq",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-04-22T15:58:25.503Z",
+      "updatedAt": "2026-04-26T21:42:43.190Z"
+    },
+    {
+      "name": "Rejectors",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-22T17:21:46.037Z"
+    },
+    {
+      "name": "LorDaeRoN",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-22T17:23:23.588Z"
+    },
+    {
+      "name": "blackflag",
+      "leader": "HellsJavi",
+      "status": "friendly",
+      "createdAt": "2026-04-22T17:32:33.476Z",
+      "updatedAt": "2026-04-22T17:50:37.042Z"
+    },
+    {
+      "name": "DontKs",
+      "leader": "nGZaka",
+      "status": "friendly",
+      "createdAt": "2026-04-22T17:34:12.366Z"
+    },
+    {
+      "name": "legendFears",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-22T17:59:15.059Z"
+    },
+    {
+      "name": "legendandfear",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-22T17:59:46.827Z"
+    },
+    {
+      "name": "Signum",
+      "leader": "Firekindle",
+      "status": "neutral",
+      "createdAt": "2026-04-22T18:00:15.924Z"
+    },
+    {
+      "name": "astartes",
+      "leader": "cristojesus",
+      "status": "neutral",
+      "createdAt": "2026-04-22T18:01:46.441Z",
+      "updatedAt": "2026-04-23T15:55:45.696Z"
+    },
+    {
+      "name": "voidseekers",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-22T20:38:56.085Z"
+    },
+    {
+      "name": "WMdedicados",
+      "leader": "caotcserver",
+      "status": "neutral",
+      "createdAt": "2026-04-22T22:24:46.206Z"
+    },
+    {
+      "name": "NuestraFamilia",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-22T22:25:31.777Z"
+    },
+    {
+      "name": "Patriots",
+      "leader": "Ex0tica",
+      "status": "enemy",
+      "createdAt": "2026-04-22T22:28:39.572Z"
+    },
+    {
+      "name": "cousins",
+      "leader": "unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-22T22:31:46.327Z"
+    },
+    {
+      "name": "247box",
+      "leader": "JinLiu",
+      "status": "friendly",
+      "createdAt": "2026-04-22T22:33:10.744Z"
+    },
+    {
+      "name": "ALLIENCE",
+      "leader": "HoBAH",
+      "status": "neutral",
+      "createdAt": "2026-04-22T22:33:29.844Z"
+    },
+    {
+      "name": "Varmints",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-04-22T22:49:42.555Z",
+      "updatedAt": "2026-04-28T04:15:10.777Z"
+    },
+    {
+      "name": "gaulois",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-22T23:15:49.578Z"
+    },
+    {
+      "name": "Tranquility",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-22T23:17:05.134Z"
+    },
+    {
+      "name": "Clanzinho",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-22T23:19:16.780Z"
+    },
+    {
+      "name": "solotek",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-22T23:24:10.190Z"
+    },
+    {
+      "name": "WraithWalker",
+      "leader": "Dezosseur",
+      "status": "friendly",
+      "createdAt": "2026-04-22T23:24:59.750Z",
+      "updatedAt": "2026-04-22T23:25:53.641Z"
+    },
+    {
+      "name": "AQuiLatinos",
+      "leader": "PinkQueen",
+      "status": "neutral",
+      "createdAt": "2026-04-23T00:00:05.814Z",
+      "updatedAt": "2026-04-29T22:59:30.521Z"
+    },
+    {
+      "name": "Chimaera",
+      "leader": "Sharkolomew (soverign)",
+      "status": "friendly",
+      "createdAt": "2026-04-23T00:01:36.200Z",
+      "updatedAt": "2026-04-30T03:03:45.163Z"
+    },
+    {
+      "name": "Crusade",
+      "leader": "Zarradevir",
+      "status": "neutral",
+      "createdAt": "2026-04-23T00:06:51.956Z",
+      "updatedAt": "2026-04-23T19:25:00.802Z"
+    },
+    {
+      "name": "midnightvangurd",
+      "leader": "MrsJuly",
+      "status": "neutral",
+      "createdAt": "2026-04-23T01:53:38.275Z"
+    },
+    {
+      "name": "Insurgentes",
+      "leader": "Unknown",
+      "status": "neutral",
+      "createdAt": "2026-04-23T01:54:09.006Z",
+      "updatedAt": "2026-05-02T14:14:51.688Z"
+    },
+    {
+      "name": "brrice",
+      "leader": "firekindle",
+      "status": "neutral",
+      "createdAt": "2026-04-23T02:03:16.409Z",
+      "updatedAt": "2026-04-23T02:09:40.980Z"
+    },
+    {
+      "name": "planetmadafqer",
+      "leader": "firekindle",
+      "status": "neutral",
+      "createdAt": "2026-04-23T02:11:17.706Z",
+      "updatedAt": "2026-04-23T02:13:33.738Z"
+    },
+    {
+      "name": "thunderkiss1969",
+      "leader": "firekindle",
+      "status": "neutral",
+      "createdAt": "2026-04-23T02:14:53.891Z",
+      "updatedAt": "2026-04-23T02:16:28.063Z"
+    },
+    {
+      "name": "batang",
+      "leader": "Aiden",
+      "status": "neutral",
+      "createdAt": "2026-04-23T02:26:07.956Z",
+      "updatedAt": "2026-04-23T13:32:17.071Z"
+    },
+    {
+      "name": "PDI",
+      "leader": "mzai",
+      "status": "enemy",
+      "createdAt": "2026-04-23T02:33:00.995Z",
+      "updatedAt": "2026-04-23T11:51:25.928Z"
+    },
+    {
+      "name": "blackmafia",
+      "leader": "kova",
+      "status": "neutral",
+      "createdAt": "2026-04-23T02:40:12.332Z",
+      "updatedAt": "2026-04-23T16:12:40.667Z"
+    },
+    {
+      "name": "gardenofweeden",
+      "leader": "didallcould",
+      "status": "neutral",
+      "createdAt": "2026-04-23T02:48:14.246Z",
+      "updatedAt": "2026-04-23T22:36:32.972Z"
+    },
+    {
+      "name": "peacefulklan",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-23T02:50:07.527Z"
+    },
+    {
+      "name": "Midnight Vangard",
+      "leader": "FastEddie",
+      "status": "neutral",
+      "createdAt": "2026-04-23T03:27:14.868Z"
+    },
+    {
+      "name": "linux",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-23T07:16:32.458Z"
+    },
+    {
+      "name": "celestes",
+      "leader": "PullaXD",
+      "status": "neutral",
+      "createdAt": "2026-04-23T07:18:49.279Z",
+      "updatedAt": "2026-04-23T07:19:50.959Z"
+    },
+    {
+      "name": "HouseOftheFamous",
+      "leader": "PullaXD",
+      "status": "neutral",
+      "createdAt": "2026-04-23T08:05:42.058Z",
+      "updatedAt": "2026-04-27T20:16:24.358Z"
+    },
+    {
+      "name": "TriE",
+      "leader": "Stark",
+      "status": "neutral",
+      "createdAt": "2026-04-23T10:52:22.548Z",
+      "updatedAt": "2026-04-23T10:52:53.224Z"
+    },
+    {
+      "name": "RedSun",
+      "leader": "514rectify",
+      "status": "friendly",
+      "createdAt": "2026-04-23T12:24:23.338Z",
+      "updatedAt": "2026-04-23T13:08:06.159Z"
+    },
+    {
+      "name": "onlyus",
+      "leader": "liluana",
+      "status": "neutral",
+      "createdAt": "2026-04-23T13:30:13.301Z",
+      "updatedAt": "2026-04-23T13:31:45.716Z"
+    },
+    {
+      "name": "MarioBros",
+      "leader": "KylleS",
+      "status": "neutral",
+      "createdAt": "2026-04-23T13:31:09.310Z"
+    },
+    {
+      "name": "storm",
+      "leader": "pwnisher",
+      "status": "neutral",
+      "createdAt": "2026-04-23T14:38:00.272Z",
+      "updatedAt": "2026-04-23T14:39:02.269Z"
+    },
+    {
+      "name": "TheLostProphets",
+      "leader": "TeoSR status neutral",
+      "status": "neutral",
+      "createdAt": "2026-04-23T15:17:24.137Z",
+      "updatedAt": "2026-04-27T14:12:16.513Z"
+    },
+    {
+      "name": "bbbeasttt",
+      "leader": "xbell",
+      "status": "enemy",
+      "createdAt": "2026-04-23T16:28:17.733Z",
+      "updatedAt": "2026-05-03T20:04:37.346Z"
+    },
+    {
+      "name": "ilostyou",
+      "leader": "backhome",
+      "status": "neutral",
+      "createdAt": "2026-04-23T16:47:13.045Z",
+      "updatedAt": "2026-04-23T16:48:17.154Z"
+    },
+    {
+      "name": "GrumpyGramps",
+      "leader": "514rectify",
+      "status": "friendly",
+      "createdAt": "2026-04-23T17:08:48.252Z",
+      "updatedAt": "2026-04-23T17:30:19.306Z"
+    },
+    {
+      "name": "fallenpanda",
+      "leader": "514rectify",
+      "status": "friendly",
+      "createdAt": "2026-04-23T17:17:07.004Z",
+      "updatedAt": "2026-04-23T17:18:02.817Z"
+    },
+    {
+      "name": "outoftheashes",
+      "leader": "514rectify",
+      "status": "friendly",
+      "createdAt": "2026-04-23T17:18:40.591Z",
+      "updatedAt": "2026-04-23T17:19:58.276Z"
+    },
+    {
+      "name": "noobsonstrike",
+      "leader": "514rectify",
+      "status": "friendly",
+      "createdAt": "2026-04-23T17:20:26.438Z",
+      "updatedAt": "2026-04-26T22:48:48.181Z"
+    },
+    {
+      "name": "roflcopter",
+      "leader": "514rectify",
+      "status": "friendly",
+      "createdAt": "2026-04-23T17:22:43.136Z",
+      "updatedAt": "2026-04-26T22:49:07.630Z"
+    },
+    {
+      "name": "Reflex",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-23T18:50:52.787Z"
+    },
+    {
+      "name": "Benevolence",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-23T18:53:20.825Z"
+    },
+    {
+      "name": "BrFalcons",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-23T19:22:07.118Z"
+    },
+    {
+      "name": "two2",
+      "leader": "unknown",
+      "status": "neutral",
+      "createdAt": "2026-04-23T20:12:02.076Z"
+    },
+    {
+      "name": "Madrynenses",
+      "leader": "BelianM",
+      "status": "neutral",
+      "createdAt": "2026-04-23T22:32:16.903Z",
+      "updatedAt": "2026-04-25T04:52:23.724Z"
+    },
+    {
+      "name": "fatality",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-23T23:20:21.934Z"
+    },
+    {
+      "name": "dad",
+      "leader": "aceblaster",
+      "status": "neutral",
+      "createdAt": "2026-04-23T23:39:37.052Z",
+      "updatedAt": "2026-04-27T02:26:29.876Z"
+    },
+    {
+      "name": "whitewolves",
+      "leader": "Thorensen",
+      "status": "neutral",
+      "createdAt": "2026-04-23T23:43:58.222Z",
+      "updatedAt": "2026-04-23T23:46:56.137Z"
+    },
+    {
+      "name": "outKasts",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-23T23:45:20.587Z"
+    },
+    {
+      "name": "justfun",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-23T23:45:35.141Z"
+    },
+    {
+      "name": "standalone",
+      "leader": "Unknown",
+      "status": "neutral",
+      "createdAt": "2026-04-23T23:45:52.173Z",
+      "updatedAt": "2026-04-24T14:34:32.046Z"
+    },
+    {
+      "name": "Philepenis",
+      "leader": "Aiden",
+      "status": "neutral",
+      "createdAt": "2026-04-24T00:26:27.839Z"
+    },
+    {
+      "name": "pixelclan",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-24T02:18:28.238Z",
+      "updatedAt": "2026-04-24T02:18:53.313Z"
+    },
+    {
+      "name": "Chaostheory",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-24T03:01:57.896Z",
+      "updatedAt": "2026-04-24T03:02:00.019Z"
+    },
+    {
+      "name": "DawnToDusk",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-04-24T06:28:40.860Z",
+      "updatedAt": "2026-04-26T21:42:11.916Z"
+    },
+    {
+      "name": "SOssupport",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-04-24T06:56:10.972Z",
+      "updatedAt": "2026-04-24T06:57:43.743Z"
+    },
+    {
+      "name": "threesisters",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-24T09:20:32.576Z"
+    },
+    {
+      "name": "Dwarfdynasty",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-24T11:33:36.180Z",
+      "updatedAt": "2026-04-24T11:33:40.862Z"
+    },
+    {
+      "name": "Fortaleza",
+      "leader": "yayitaa",
+      "status": "neutral",
+      "createdAt": "2026-04-24T13:02:21.000Z",
+      "updatedAt": "2026-04-24T13:02:50.188Z"
+    },
+    {
+      "name": "silveraim",
+      "leader": "Unknown",
+      "status": "friendly",
+      "createdAt": "2026-04-24T13:27:45.092Z",
+      "updatedAt": "2026-04-24T16:29:27.713Z"
+    },
+    {
+      "name": "zucchini",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-04-24T17:02:13.649Z",
+      "updatedAt": "2026-04-24T17:03:38.324Z"
+    },
+    {
+      "name": "novavita",
+      "leader": "sharkolomew",
+      "status": "friendly",
+      "createdAt": "2026-04-24T17:04:03.852Z",
+      "updatedAt": "2026-04-24T17:24:35.902Z"
+    },
+    {
+      "name": "PHILIPENIS",
+      "leader": "TalkToJinLiuToChangeStatus",
+      "status": "neutral",
+      "createdAt": "2026-04-24T18:36:11.232Z",
+      "updatedAt": "2026-04-25T21:48:03.717Z"
+    },
+    {
+      "name": "tremendous",
+      "leader": "caetus",
+      "status": "friendly",
+      "createdAt": "2026-04-24T19:55:19.649Z",
+      "updatedAt": "2026-05-02T13:13:21.370Z"
+    },
+    {
+      "name": "play4time",
+      "leader": "BelianM",
+      "status": "neutral",
+      "createdAt": "2026-04-25T04:53:42.744Z"
+    },
+    {
+      "name": "peaceful",
+      "leader": "BelianM",
+      "status": "neutral",
+      "createdAt": "2026-04-25T04:53:56.548Z"
+    },
+    {
+      "name": "ALIENCE",
+      "leader": "HOBAH",
+      "status": "neutral",
+      "createdAt": "2026-04-25T19:18:29.200Z",
+      "updatedAt": "2026-04-25T19:19:05.212Z"
+    },
+    {
+      "name": "FarmerdeBoa",
+      "leader": "xTalude",
+      "status": "neutral",
+      "createdAt": "2026-04-25T20:13:10.168Z",
+      "updatedAt": "2026-05-01T20:31:52.556Z"
+    },
+    {
+      "name": "abismo",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-04-26T00:52:37.105Z",
+      "updatedAt": "2026-04-26T00:52:41.501Z"
+    },
+    {
+      "name": "zoldick",
+      "leader": "Yayitaa",
+      "status": "friendly",
+      "createdAt": "2026-04-26T00:53:14.123Z",
+      "updatedAt": "2026-05-08T03:49:58.167Z"
+    },
+    {
+      "name": "mostwanted",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-26T00:55:14.523Z"
+    },
+    {
+      "name": "midnightvanguard",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-26T00:58:09.490Z"
+    },
+    {
+      "name": "DiscreteMaths",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-26T04:11:54.344Z",
+      "updatedAt": "2026-04-26T04:56:19.656Z"
+    },
+    {
+      "name": "just4fun",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-26T05:24:05.861Z",
+      "updatedAt": "2026-04-26T05:25:19.304Z"
+    },
+    {
+      "name": "ladroga",
+      "leader": "Maluca",
+      "status": "neutral",
+      "createdAt": "2026-04-26T05:25:26.208Z",
+      "updatedAt": "2026-04-26T22:22:17.677Z"
+    },
+    {
+      "name": "PointBlank",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-04-26T12:13:00.045Z",
+      "updatedAt": "2026-04-26T12:23:35.421Z"
+    },
+    {
+      "name": "Tropicallslands",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-26T12:16:24.715Z"
+    },
+    {
+      "name": "BSASARG",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-04-26T12:23:19.508Z",
+      "updatedAt": "2026-05-03T14:19:03.945Z"
+    },
+    {
+      "name": "0420",
+      "leader": "headcrusher",
+      "status": "friendly",
+      "createdAt": "2026-04-26T15:06:26.197Z",
+      "updatedAt": "2026-04-26T15:08:45.225Z"
+    },
+    {
+      "name": "fenrry",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-26T15:25:09.214Z",
+      "updatedAt": "2026-04-26T15:25:12.332Z"
+    },
+    {
+      "name": "Cavaliers",
+      "leader": "Kingkrol",
+      "status": "neutral",
+      "createdAt": "2026-04-26T15:31:04.552Z",
+      "updatedAt": "2026-04-26T15:31:40.205Z"
+    },
+    {
+      "name": "ValdiviaCL",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-04-26T17:34:21.318Z",
+      "updatedAt": "2026-04-26T17:34:24.557Z"
+    },
+    {
+      "name": "GloryofGuris",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-26T20:05:56.606Z"
+    },
+    {
+      "name": "zarganauts",
+      "leader": "necrozone",
+      "status": "neutral",
+      "createdAt": "2026-04-26T20:08:49.531Z",
+      "updatedAt": "2026-04-26T21:01:31.585Z"
+    },
+    {
+      "name": "traders",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-26T20:13:32.746Z"
+    },
+    {
+      "name": "colombiacity",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-26T20:55:14.220Z"
+    },
+    {
+      "name": "Darkhorizon",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-04-26T21:44:46.899Z",
+      "updatedAt": "2026-04-26T21:44:49.857Z"
+    },
+    {
+      "name": "itstormenta",
+      "leader": "maluca",
+      "status": "neutral",
+      "createdAt": "2026-04-26T22:35:43.099Z",
+      "updatedAt": "2026-04-26T22:36:48.589Z"
+    },
+    {
+      "name": "baconha",
+      "leader": "maluca",
+      "status": "neutral",
+      "createdAt": "2026-04-26T22:40:52.388Z",
+      "updatedAt": "2026-04-26T22:44:08.914Z"
+    },
+    {
+      "name": "malportada",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-27T00:40:17.583Z"
+    },
+    {
+      "name": "TreasureSeekers",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-27T02:06:36.820Z",
+      "updatedAt": "2026-04-27T02:06:43.103Z"
+    },
+    {
+      "name": "Playabe",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-27T02:14:50.845Z",
+      "updatedAt": "2026-04-27T02:14:53.930Z"
+    },
+    {
+      "name": "GOLGART",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-27T02:15:27.593Z",
+      "updatedAt": "2026-04-27T02:15:29.829Z"
+    },
+    {
+      "name": "Electronicos",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-27T02:21:01.249Z"
+    },
+    {
+      "name": "sainsquart",
+      "leader": "PullaXD",
+      "status": "neutral",
+      "createdAt": "2026-04-27T00:00:00.000Z"
+    },
+    {
+      "name": "Alien",
+      "leader": "Heirarcher",
+      "status": "neutral",
+      "createdAt": "2026-04-27T19:31:47.042Z"
+    },
+    {
+      "name": "fr0stwolf",
+      "leader": "PullaXD",
+      "status": "neutral",
+      "createdAt": "2026-04-27T20:16:50.357Z",
+      "updatedAt": "2026-04-27T20:17:15.663Z"
+    },
+    {
+      "name": "umextrapunk",
+      "leader": "ecliptica",
+      "status": "neutral",
+      "createdAt": "2026-04-27T20:47:25.783Z",
+      "updatedAt": "2026-04-28T21:34:06.212Z"
+    },
+    {
+      "name": "ClanFarmeClan",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-04-28T00:44:53.835Z",
+      "updatedAt": "2026-04-28T00:44:56.777Z"
+    },
+    {
+      "name": "Leave",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-28T03:49:14.893Z",
+      "updatedAt": "2026-04-28T03:49:20.518Z"
+    },
+    {
+      "name": "TeamMonster",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-28T04:01:29.259Z",
+      "updatedAt": "2026-04-28T04:01:31.833Z"
+    },
+    {
+      "name": "Metrofor",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-28T17:19:55.108Z",
+      "updatedAt": "2026-04-28T17:20:03.062Z"
+    },
+    {
+      "name": "Malacticos",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-04-28T17:25:16.311Z",
+      "updatedAt": "2026-04-28T17:25:17.885Z"
+    },
+    {
+      "name": "LatinosAcademy",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-29T12:07:45.427Z"
+    },
+    {
+      "name": "walkerofdeath",
+      "leader": "Kawashiro",
+      "status": "neutral",
+      "createdAt": "2026-04-29T16:41:42.301Z",
+      "updatedAt": "2026-05-06T23:11:06.393Z"
+    },
+    {
+      "name": "neutro",
+      "leader": "R4sputin",
+      "status": "enemy",
+      "createdAt": "2026-04-29T18:31:27.187Z",
+      "updatedAt": "2026-04-29T18:31:47.470Z"
+    },
+    {
+      "name": "basic",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-29T19:35:01.373Z",
+      "updatedAt": "2026-04-30T23:49:45.054Z"
+    },
+    {
+      "name": "EhNois",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-04-29T22:01:50.790Z",
+      "updatedAt": "2026-04-29T22:01:53.075Z"
+    },
+    {
+      "name": "L2Farmers",
+      "leader": "samr",
+      "status": "unknown",
+      "createdAt": "2026-04-30T04:45:09.225Z",
+      "updatedAt": "2026-04-30T08:54:52.755Z"
+    },
+    {
+      "name": "trolsbr",
+      "leader": "Vennak",
+      "status": "neutral",
+      "createdAt": "2026-04-30T20:00:11.660Z",
+      "updatedAt": "2026-05-01T01:27:43.440Z"
+    },
+    {
+      "name": "kiki",
+      "leader": "kyriel",
+      "status": "neutral",
+      "createdAt": "2026-05-01T01:37:49.586Z",
+      "updatedAt": "2026-05-01T01:38:23.701Z"
+    },
+    {
+      "name": "NewAgeOfPeace",
+      "leader": "Belianm",
+      "status": "neutral",
+      "createdAt": "2026-05-01T01:44:59.238Z",
+      "updatedAt": "2026-05-01T01:45:32.359Z"
+    },
+    {
+      "name": "sonsofSorcery",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-05-01T01:53:57.098Z",
+      "updatedAt": "2026-05-01T01:53:58.746Z"
+    },
+    {
+      "name": "cgrMs",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-01T01:58:00.622Z"
+    },
+    {
+      "name": "ViolaPantaneira",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-05-01T01:59:18.567Z",
+      "updatedAt": "2026-05-01T01:59:22.284Z"
+    },
+    {
+      "name": "LightKnights",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-01T02:08:07.685Z",
+      "updatedAt": "2026-05-01T02:08:10.271Z"
+    },
+    {
+      "name": "KLOPIMAIA",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-01T02:42:22.759Z",
+      "updatedAt": "2026-05-01T02:42:26.961Z"
+    },
+    {
+      "name": "unextrapunk",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-01T03:33:54.016Z",
+      "updatedAt": "2026-05-01T03:40:48.778Z"
+    },
+    {
+      "name": "TropicalIslands",
+      "leader": "KohLibong",
+      "status": "neutral",
+      "createdAt": "2026-05-01T03:52:27.519Z",
+      "updatedAt": "2026-05-01T03:53:09.424Z"
+    },
+    {
+      "name": "Ethernalz",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-05-01T11:49:28.455Z",
+      "updatedAt": "2026-05-01T11:50:04.275Z"
+    },
+    {
+      "name": "merchants",
+      "leader": "stark",
+      "status": "neutral",
+      "createdAt": "2026-05-01T13:59:37.230Z",
+      "updatedAt": "2026-05-01T14:00:12.802Z"
+    },
+    {
+      "name": "cool",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-05-01T18:56:17.425Z",
+      "updatedAt": "2026-05-01T18:56:19.699Z"
+    },
+    {
+      "name": "kasos",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-01T19:00:49.821Z",
+      "updatedAt": "2026-05-01T19:00:52.406Z"
+    },
+    {
+      "name": "DownToDusk",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-01T20:05:14.048Z",
+      "updatedAt": "2026-05-01T20:05:18.459Z"
+    },
+    {
+      "name": "Alphabet",
+      "leader": "StepOne",
+      "status": "neutral",
+      "createdAt": "2026-05-01T21:28:21.878Z",
+      "updatedAt": "2026-05-01T23:34:49.855Z"
+    },
+    {
+      "name": "latinnnosacademy",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-01T22:46:18.413Z"
+    },
+    {
+      "name": "ClanPuccio",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-01T22:55:22.062Z"
+    },
+    {
+      "name": "bsas leader unknown",
+      "leader": "status",
+      "status": "unknown",
+      "createdAt": "2026-05-01T23:42:18.763Z"
+    },
+    {
+      "name": "marsclan",
+      "leader": "sableye",
+      "status": "neutral",
+      "createdAt": "2026-05-02T14:16:10.178Z",
+      "updatedAt": "2026-05-02T14:19:58.118Z"
+    },
+    {
+      "name": "JAJAJA",
+      "leader": "13lazed",
+      "status": "friendly",
+      "createdAt": "2026-05-02T14:38:16.909Z",
+      "updatedAt": "2026-05-02T14:38:41.123Z"
+    },
+    {
+      "name": "Defender0faden",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-02T16:58:32.055Z",
+      "updatedAt": "2026-05-02T16:58:35.196Z"
+    },
+    {
+      "name": "Phoenix",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-02T17:09:01.203Z",
+      "updatedAt": "2026-05-02T17:09:03.711Z"
+    },
+    {
+      "name": "Frozen",
+      "leader": "Mannark",
+      "status": "neutral",
+      "createdAt": "2026-05-02T17:21:15.056Z",
+      "updatedAt": "2026-05-03T20:27:55.758Z"
+    },
+    {
+      "name": "slo",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-03T14:24:42.353Z",
+      "updatedAt": "2026-05-03T14:24:44.607Z"
+    },
+    {
+      "name": "farasi",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-03T20:22:10.910Z",
+      "updatedAt": "2026-05-03T20:22:12.963Z"
+    },
+    {
+      "name": "DwarftBies",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-04T02:46:56.590Z",
+      "updatedAt": "2026-05-04T02:46:58.883Z"
+    },
+    {
+      "name": "lobosVikingos",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-04T03:13:24.332Z",
+      "updatedAt": "2026-05-04T03:13:26.076Z"
+    },
+    {
+      "name": "chancla",
+      "leader": "ziggysnorkel",
+      "status": "neutral",
+      "createdAt": "2026-05-04T03:24:16.154Z",
+      "updatedAt": "2026-05-04T04:03:59.744Z"
+    },
+    {
+      "name": "LOBOSVIKINGOS leader Ironsaid",
+      "leader": "status",
+      "status": "neutral",
+      "createdAt": "2026-05-04T03:38:58.248Z"
+    },
+    {
+      "name": "TOROSNEGROS leader Ironsaid",
+      "leader": "status",
+      "status": "neutral",
+      "createdAt": "2026-05-04T03:40:10.079Z"
+    },
+    {
+      "name": "Kamikazes",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-04T22:23:08.244Z",
+      "updatedAt": "2026-05-04T22:23:12.106Z"
+    },
+    {
+      "name": "cccp_27",
+      "leader": "R4nk4es",
+      "status": "enemy",
+      "createdAt": "2026-05-05T13:44:39.965Z",
+      "updatedAt": "2026-05-05T13:45:41.093Z"
+    },
+    {
+      "name": "trollhunters",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-05T13:46:48.087Z",
+      "updatedAt": "2026-05-05T13:46:55.390Z"
+    },
+    {
+      "name": "zivie",
+      "leader": "Kyriel",
+      "status": "neutral",
+      "createdAt": "2026-05-05T19:43:51.497Z",
+      "updatedAt": "2026-05-05T19:44:05.390Z"
+    },
+    {
+      "name": "LAISTRIGONES",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-05T21:28:20.620Z",
+      "updatedAt": "2026-05-05T21:29:09.157Z"
+    },
+    {
+      "name": "lapica",
+      "leader": "Unknown",
+      "status": "enemy",
+      "createdAt": "2026-05-05T21:47:44.839Z",
+      "updatedAt": "2026-05-05T21:47:47.909Z"
+    },
+    {
+      "name": "bighero6",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-06T10:54:01.920Z",
+      "updatedAt": "2026-05-06T10:54:04.737Z"
+    },
+    {
+      "name": "Filipino",
+      "leader": "doring",
+      "status": "neutral",
+      "createdAt": "2026-05-06T12:00:43.977Z"
+    },
+    {
+      "name": "defenderOfaden",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-06T15:18:42.914Z",
+      "updatedAt": "2026-05-06T15:18:44.842Z"
+    },
+    {
+      "name": "losguapones",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-06T17:48:08.006Z",
+      "updatedAt": "2026-05-06T17:48:09.890Z"
+    },
+    {
+      "name": "PRWKTOS",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-07T04:06:23.914Z",
+      "updatedAt": "2026-05-07T04:06:25.421Z"
+    },
+    {
+      "name": "Odrodzenie",
+      "leader": "StrixI\" neutral",
+      "status": "unknown",
+      "createdAt": "2026-05-07T15:45:39.182Z",
+      "updatedAt": "2026-05-07T16:50:51.329Z"
+    },
+    {
+      "name": "DuBueros",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-07T15:46:15.821Z",
+      "updatedAt": "2026-05-07T15:46:17.293Z"
+    },
+    {
+      "name": "SelkNaM",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-07T15:49:11.929Z",
+      "updatedAt": "2026-05-07T15:49:13.672Z"
+    },
+    {
+      "name": "crazy",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-07T20:29:30.487Z",
+      "updatedAt": "2026-05-07T20:29:32.238Z"
+    },
+    {
+      "name": "ThunderCats",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-07T21:01:52.026Z",
+      "updatedAt": "2026-05-07T21:01:56.082Z"
+    },
+    {
+      "name": "istormenta",
+      "leader": "Unknown",
+      "status": "neutral",
+      "createdAt": "2026-05-08T00:04:47.964Z",
+      "updatedAt": "2026-05-08T00:04:58.969Z"
+    },
+    {
+      "name": "Tsekaiexpress",
+      "leader": "Unknown",
+      "status": "unknown",
+      "createdAt": "2026-05-08T08:13:20.379Z",
+      "updatedAt": "2026-05-08T08:13:23.068Z"
+    }
+  ]
+}
