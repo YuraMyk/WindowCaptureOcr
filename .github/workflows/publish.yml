@@ -2,7 +2,7 @@ name: Publish
 
 on:
   push:
-    tags: ["v*"]          # triggers on v1.0.0, v1.2.3, etc.
+    tags: ["v*"]
 
 jobs:
   build:
@@ -14,18 +14,33 @@ jobs:
         with:
           dotnet-version: "8.0.x"
 
-      - name: Publish single-file exe
+      - name: Find project file
+        id: find_proj
+        shell: pwsh
         run: |
-          dotnet publish WindowCaptureOcr/WindowCaptureOcr.csproj `
+          $proj = Get-ChildItem -Recurse -Filter "*.csproj" | Select-Object -First 1
+          echo "path=$($proj.FullName)" >> $env:GITHUB_OUTPUT
+          echo "Found: $($proj.FullName)"
+
+      - name: Publish single-file exe
+        shell: pwsh
+        run: |
+          dotnet publish "${{ steps.find_proj.outputs.path }}" `
             -c Release -r win-x64 `
             --self-contained true `
             -p:PublishSingleFile=true `
             -p:IncludeNativeLibrariesForSelfExtract=true `
             -o ./out
 
+      - name: Copy clans.json to output
+        shell: pwsh
+        run: |
+          $clans = Get-ChildItem -Recurse -Filter "clans.json" | Select-Object -First 1
+          if ($clans) { Copy-Item $clans.FullName ./out/clans.json }
+
       - name: Upload to GitHub Release
         uses: softprops/action-gh-release@v2
         with:
           files: |
             out/WindowCaptureOcr.exe
-            WindowCaptureOcr/clans.json
+            out/clans.json
